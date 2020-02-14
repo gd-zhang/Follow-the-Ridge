@@ -10,6 +10,9 @@ $ python follow_ridge_1D.py --follow_ridge --adapt_damping
 
 # for 2-D MOG
 $ python follow_ridge_2D.py --follow_ridge --adapt_damping
+
+# for two dimensional examples
+$ python quadratic.py --function 1
 ```
 
 ## Requirements
